@@ -1,0 +1,6 @@
+{
+  "name": "LaboSciences CM1 — Les Mélanges",
+  "description": "Cours interactif de sciences CM1 sur les mélanges homogènes et hétérogènes, les techniques de séparation avec schémas animés, bulles d'aide et jeux de quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
