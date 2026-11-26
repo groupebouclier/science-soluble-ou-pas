@@ -6,7 +6,7 @@ import tailwindcss from '@tailwindcss/vite';
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
   return {
-    base: '/science-soluble-ou-pas/',
+    base: '/soluble-ou-pas/',
     plugins: [react(), tailwindcss()],
     define: {
       'process.env.API_KEY': JSON.stringify(env.GEMINI_API_KEY || ''),
